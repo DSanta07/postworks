@@ -1,0 +1,9 @@
+# CSV Files
+**/**/*.csv*
+*.csv*
+**/**/*.bck*
+*.bck*
+*.csv
+Consumer_Complaints.csv
+Consumer_Complaints.csv.bck
+Consumer_Complaints_h.csv.bck
