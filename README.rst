@@ -1,5 +1,5 @@
 ##########
-Postwork Sesión 1 y 2 de Data Analysis Bootcamp
+Postworks de Data Analysis Bootcamp
 ##########
 
 Descarga
@@ -8,7 +8,7 @@ Descarga el Dataset del siguiente link `Consumer Complaints <https://www.kaggle.
 
 Descarga el repositorio o clonalo usando el comando de git.
 
-Comando Bash
+Dataset
 ====
 
 Despues de la descarga descomprime el repositorio y pega el Dataset en la carpeta descomprimida.
