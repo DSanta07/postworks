@@ -11,8 +11,5 @@ Descarga el repositorio o clonalo usando el comando de git.
 Comando Bash
 ====
 
-Despues de la descarga descomprime el repositorio y pega el Dataset en la carpeta descomprimida y ejecuta el siguiente comando:
-
-  bash s01-postwork.sh
-
+Despues de la descarga descomprime el repositorio y pega el Dataset en la carpeta descomprimida.
 
